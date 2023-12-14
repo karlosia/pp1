@@ -1,0 +1,10 @@
+{
+  "title": "The Hunger Games",
+  "Year": 2012,
+  "actor": {
+    "leading": "Jennifer Lawrence",
+    "supporting": "Josh Huterson"
+  },
+  "oscar": true,
+  "Rating out of 10": 9
+}

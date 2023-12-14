@@ -1,0 +1,5 @@
+A: Alfa
+B: Bravo
+C: Charlie
+D: Delta
+Z: Zulu

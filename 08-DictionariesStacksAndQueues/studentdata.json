@@ -1,0 +1,10 @@
+{
+  "Name": "John",
+  "Age": 17,
+  "Grade aritmetic mean": 4.5,
+  "Promoted to graduate": true,
+  "Email": {
+    "school": "john@email.com",
+    "private": "john.private@gmail.com"
+  }
+}
